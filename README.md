@@ -40,5 +40,5 @@ The primary goal is to enhance Atliq Grands' market share and revenue in the lux
 - **In-depth Domain Knowledge in Hospitality**
 - **Understanding and Translating Stakeholder Requirements from Mock-Up Dashboard and Meeting**
 
-[Check out Live Dashboard here!](https://app.powerbi.com/view?r=eyJrIjoiYTc0OWU2MzQtM2RiOS00MDc5LTg0MGItODRhNzI2N2UyZmJjIiwidCI6Ijg2MzI4YTBhLWRhMGMtNGQzZS04OTE5LTc4OTcwMTZiMzNiMyJ9)
+[Check out Live Dashboard here!](https://app.powerbi.com/view?r=eyJrIjoiYTc0OWU2MzQtM2RiOS00MDc5LTg0MGItODRhNzI2N2UyZmJjIiwidCI6Ijg2MzI4YTBhLWRhMGMtNGQzZS04OTE5LTc4OTcwMTZiMzNiMyJ9&pageName=d016a60fea1fd0e6926b)
 
