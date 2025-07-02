@@ -23,8 +23,19 @@ Atliq Grands, a prominent player in India's hospitality sector, has experienced 
 - **DSRN (Daily Sellable Room Nights)**
 - **DURN (Daily Utilized Room Nights)**
 - **Revenue Realization Rate**
-- **Occupancy and Cancellation Rates**
-- **Check-out/No show**
+- **Total Capacity**
+- **Total Bookings**
+- **Total Occupancy**
+- **Total No-Show**
+- **Total Cancellation**
+- **Total Check-out**
+- **Occupancy Rate**
+- **No-Show Rate**
+- **Cancellation Rate**
+- **Average Customer Rating**
+- **Weekday vs Weekend Revenue**
+- **Weekday vs Weekend Bookings**
+- **Revenue Week-over-Week Percentage Change**
 
 ### Technical Proficiency:
 - **Power BI Fundamentals**
@@ -37,4 +48,6 @@ Atliq Grands, a prominent player in India's hospitality sector, has experienced 
 - **Understanding and Translating Stakeholder Requirements from Mock-Up Dashboard and Meeting**
 
 [Check out Live Dashboard here!](https://app.powerbi.com/view?r=eyJrIjoiYTc0OWU2MzQtM2RiOS00MDc5LTg0MGItODRhNzI2N2UyZmJjIiwidCI6Ijg2MzI4YTBhLWRhMGMtNGQzZS04OTE5LTc4OTcwMTZiMzNiMyJ9&pageName=d016a60fea1fd0e6926b)
+
+[Check out Detailed Report here!](https://app.powerbi.com/view?r=eyJrIjoiYTc0OWU2MzQtM2RiOS00MDc5LTg0MGItODRhNzI2N2UyZmJjIiwidCI6Ijg2MzI4YTBhLWRhMGMtNGQzZS04OTE5LTc4OTcwMTZiMzNiMyJ9&pageName=d016a60fea1fd0e6926b)
 
